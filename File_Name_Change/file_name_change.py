@@ -1,4 +1,4 @@
-# collect file name from user
+# collect input
 photo_file_names = input().strip()
 
 # read the file contents

@@ -8,6 +8,7 @@ try:
         file_names_list = file_names.readlines() # store file contents as a list
         if not file_names_list:
             print("The file is empty")
+
 except FileNotFoundError:
     print(f'The file {photo_file_names} does not exist.')
     

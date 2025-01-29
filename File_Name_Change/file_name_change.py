@@ -11,7 +11,7 @@ try:
 
 except FileNotFoundError:
     print(f'The file {photo_file_names} does not exist.')
-    
+
 # modify file
 for name in file_names_list:
     # handle edge case when file has empty new line

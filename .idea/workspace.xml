@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b7ac3c-0b10-4dd1-b0db-d6f61e4ad042" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/File_Name_Change/ParkPhotos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Name_Change/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Name_Change/file_name_change.py" beforeDir="false" />
+    <list default="true" id="89c5f40f-4859-4556-bdfc-2355067c1336" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/File_Name_Change/ParkPhotos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Name_Change/file_name_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/altering_file/altering_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/altering_file/ball.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/run_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caffeine_levels/run_caffeine_levels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calories_burned/run_calories_burned.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command_line_args/commandlineargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/command_line_args/commandlineargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_grades/StudentInfo.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/course_grades/StudentInfo.tsv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +25,7 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2sHjeJzJGtsMlZF8nx86KEamRnf" />
+  <component name="ProjectId" id="2sajzEWAxIq2Z53ayInxIsP3FFR" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,152 +34,27 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.contact_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.course_grade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_name_change.executor&quot;: &quot;Run&quot;,
-    &quot;Python.music_library.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sorting_TVshows.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3b7ac3c-0b10-4dd1-b0db-d6f61e4ad042" name="Changes" comment="" />
-      <created>1738119489146</created>
+      <changelist id="89c5f40f-4859-4556-bdfc-2355067c1336" name="Changes" comment="" />
+      <created>1738700840641</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1738119489146</updated>
+      <updated>1738700840641</updated>
     </task>
-    <task id="LOCAL-00001" summary="collecting user input">
-      <option name="closed" value="true" />
-      <created>1738126772695</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1738126772695</updated>
-    </task>
-    <task id="LOCAL-00002" summary="read file contents">
-      <option name="closed" value="true" />
-      <created>1738127168673</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1738127168673</updated>
-    </task>
-    <task id="LOCAL-00003" summary="modify file and put to output">
-      <option name="closed" value="true" />
-      <created>1738127435659</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1738127435659</updated>
-    </task>
-    <task id="LOCAL-00004" summary="clarifying comment">
-      <option name="closed" value="true" />
-      <created>1738127466989</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1738127466989</updated>
-    </task>
-    <task id="LOCAL-00005" summary="clarifying comment">
-      <option name="closed" value="true" />
-      <created>1738127471361</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1738127471361</updated>
-    </task>
-    <task id="LOCAL-00006" summary="handle edge case - empty file">
-      <option name="closed" value="true" />
-      <created>1738127677277</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1738127677277</updated>
-    </task>
-    <task id="LOCAL-00007" summary="handle empty file case">
-      <option name="closed" value="true" />
-      <created>1738127974445</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1738127974445</updated>
-    </task>
-    <task id="LOCAL-00008" summary="handle empty line in file">
-      <option name="closed" value="true" />
-      <created>1738127985985</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1738127985985</updated>
-    </task>
-    <task id="LOCAL-00009" summary="adding exception for error handling">
-      <option name="closed" value="true" />
-      <created>1738128074148</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1738128074148</updated>
-    </task>
-    <task id="LOCAL-00010" summary="adding newline for clarity">
-      <option name="closed" value="true" />
-      <created>1738128128008</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1738128128008</updated>
-    </task>
-    <task id="LOCAL-00011" summary="adding newline for clarity">
-      <option name="closed" value="true" />
-      <created>1738128133514</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1738128133514</updated>
-    </task>
-    <task id="LOCAL-00012" summary="modified to meet lab instruction">
-      <option name="closed" value="true" />
-      <created>1738128242879</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1738128242879</updated>
-    </task>
-    <task id="LOCAL-00013" summary="unchanged">
-      <option name="closed" value="true" />
-      <created>1738128400235</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1738128400235</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="collecting user input" />
-    <MESSAGE value="read file contents" />
-    <MESSAGE value="modify file and put to output" />
-    <MESSAGE value="clarifying comment" />
-    <MESSAGE value="handle edge case - empty file" />
-    <MESSAGE value="handle empty file case" />
-    <MESSAGE value="handle empty line in file" />
-    <MESSAGE value="adding exception for error handling" />
-    <MESSAGE value="adding newline for clarity" />
-    <MESSAGE value="modified to meet lab instruction" />
-    <MESSAGE value="unchanged" />
-    <option name="LAST_COMMIT_MESSAGE" value="unchanged" />
   </component>
 </project>

@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20ecd35b-5ffb-44e6-b0b1-2b13e420c593" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/altering_file/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caffeine_levels/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/altering_file/altering_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/altering_file/altering_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caffeine_levels/run_caffeine_levels.py" beforeDir="false" afterPath="$PROJECT_DIR$/caffeine_levels/run_caffeine_levels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/welcome/run_welcome.py" beforeDir="false" afterPath="$PROJECT_DIR$/welcome/run_welcome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/altering_file/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/altering_file/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/altering_file/new_ball.bmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

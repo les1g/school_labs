@@ -30,7 +30,7 @@ This program modifies the pixel data of a BMP image file by replacing a portion 
 
 - `ball.bmp`: Original BMP image file (must be present in the working directory).
 - `new_ball.bmp`: New BMP image file created with modified pixel data (output file).
-- `bmp_modifier.py`: Python script containing the image modification code.
+- `altering_file.py`: Python script containing the image modification code.
 
 ## How to Run
 
@@ -38,4 +38,4 @@ This program modifies the pixel data of a BMP image file by replacing a portion 
 2. Run the script using Python 3:
 
 ```bash
-python bmp_modifier.py
+python altering_file.py
